@@ -22,7 +22,7 @@ The Go Data Feed Smart Contract Project is designed to aggregate blockchain RPC 
 
 ### Prerequisites
 Before you begin, make sure you have the following installed:
-- Go 1.18+
+- Go 1.23+
 - Rust (for the blockchain ingestion project)
 - Node.js and NPM (if working with smart contract deployments)
   
