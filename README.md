@@ -1,4 +1,6 @@
-# Go Data Feed Smart Contract Project
+# Data Feed Smart Contract Project
+
+***Project Progress***: `[----------]` 0%
 
 ## Overview
 The Go Data Feed Smart Contract Project is designed to aggregate blockchain RPC data from a blockchain indexing service. The goal is to extend the functionalities of Chainlink's data feeds and combine this new Go-based service with an existing Rust-based blockchain ingestion project.
